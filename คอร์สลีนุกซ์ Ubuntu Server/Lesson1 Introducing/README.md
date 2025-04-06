@@ -1,6 +1,6 @@
 # บทเรียน (Lesson 1)
 
-ในวิดีโอนี้เราจะพูดถึงการติดตั้ง Ubuntu Server
+ในวิดีโอนี้เราจะพูดถึงการติดตั้ง Ubuntu Server 
 
 [EP1:](https://youtu.be/[xxxxx](https://youtu.be/y6k_8fJD2DI?si=9fX-Pa8MrOTcslbz))  
 
