@@ -1,4 +1,4 @@
-# บทเรียน (Lesson8: Firewall with UFW)
+# บทเรียน (Lesson10: Firewall with UFW)
 
 ในวิดีโอนี้เราจะพูดถึงการจัดการแพ็คเกจบนลีนุกซ์แบบละเอียด
 
