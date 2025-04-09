@@ -1,3 +1,4 @@
+<!--
 # บทเรียน (Lesson3: Access the Command Line and Help)
 
 ในวิดีโอนี้เราจะพูดถึงการจัดการแพ็คเกจบนลีนุกซ์แบบละเอียด
@@ -10,3 +11,4 @@
 # ตัวอย่างเพิ่มเติม: การจัดการไฟล์ จัดการไดเรคทอรีบนลีนุกซ์ Ubuntu Server
 [![Lesson 1](https://img.youtube.com/vi/lRLa1TB5my4/0.jpg)](https://youtu.be/lRLa1TB5my4 "ตัวอย่าง: การจัดการไฟล์ จัดการไดเรคทอรีบนลีนุกซ์ Ubuntu Server")
 
+-->
