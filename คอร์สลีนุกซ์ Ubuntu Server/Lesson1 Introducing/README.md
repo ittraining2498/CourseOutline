@@ -1,8 +1,5 @@
-# บทเรียน (Lesson 1)
+# แนะนำเบื้องต้นเกี่ยวกับ Linux และ Ubuntu Server
 
-ในวิดีโอนี้เราจะพูดถึงการติดตั้ง Ubuntu Server 
-
-[EP1:](https://youtu.be/[xxxxx](https://youtu.be/y6k_8fJD2DI?si=9fX-Pa8MrOTcslbz))  
 
 หรือจะทำเป็นปุ่ม Badge ก็ได้:
 [![Watch on YouTube](https://img.shields.io/badge/-Watch%20on%20YouTube-red?logo=youtube)](https://youtu.be/[xxxxx](https://youtu.be/y6k_8fJD2DI?si=9fX-Pa8MrOTcslbz))
