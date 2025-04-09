@@ -4,7 +4,7 @@
 ในวิดีโอนี้เราจะพูดถึงการจัดการแพ็คเกจบนลีนุกซ์แบบละเอียด
 
 [คลิกที่นี่เพื่อดูวิดีโอ](https://youtu.be/xxxxx)  
-
+ 
 หรือจะทำเป็นปุ่ม Badge ก็ได้:
 [![Watch on YouTube](https://img.shields.io/badge/-Watch%20on%20YouTube-red?logo=youtube)](https://youtu.be/xxxxx)
 
